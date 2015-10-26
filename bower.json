@@ -1,0 +1,16 @@
+{
+  "name": "ittech",
+  "description": "Information Technology Blog Page",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/bower_downloads",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "*",
+    "jquery": "*"
+  }
+}
+
